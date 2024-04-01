@@ -4,7 +4,7 @@
   
   This repository contains a predictive model built using logistic regression to identify customers who are likely to travel with our airline in the upcoming festive season Along with Sentiment Analysis. The model is trained on a dataset comprising 130,000 records and 21 parameters, obtained through web scraping techniques using Python and the Pandas libraries.
 
-  - Current Status 75% Accuracy (Improving) this is base model Accuracy
+  - Current Status 75% Accuracy (Improving) This is the base model Accuracy
 
 ***Skills and Tools***
 - Python
